@@ -1,4 +1,4 @@
-# Combinacao_de_Tecnicas_Estatisticas_e_Modelagem_de_Planejamento_para_Escalar_Iime_no_Fantasy_Game
+# Combinacao_de_Tecnicas_Estatisticas_e_Modelagem_de_Planejamento_para_Escalar_Time_no_Fantasy_Game
 
 #### Aluno: [Ricardo Gravina Condé](https://github.com/Ricardo-Gravina)
 #### Orientador(/a/es/as): [Felipe Borges](https://github.com/FelipeBorgesC).
